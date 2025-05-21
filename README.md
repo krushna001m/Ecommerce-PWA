@@ -1,6 +1,15 @@
 
 # 🛒 Ecommerce-PWA
 
+## 🧾 Internship Details
+
+* **Company**: CODTECH IT SOLUTIONS
+* **Intern Name**: Krushna Mengal
+* **Intern ID**: CT12WF14
+* **Domain**: Web Development
+* **Duration**: 12 Weeks
+* **Mentor**: Neela Santhosh Kumar
+
 A modern, **Progressive Web Application (PWA)** for e-commerce, built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This project delivers a fast, responsive, and offline-capable shopping experience.
 
 ---
